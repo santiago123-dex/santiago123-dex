@@ -6,7 +6,8 @@
 
 <!-- GIF o imagen -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="![Imagen de WhatsApp 2025-08-09 a las 15 00 36_3c592f7b](https://github.com/user-attachments/assets/0af7d456-4ed3-4839-b2da-423aaabd22e1)
+" width="400"/>
 </p>
 
 ---
