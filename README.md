@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <h1 align="center">¡Hola! 👋 Soy Santiago Fajardo</h1>
-<h3 align="center">💻 Desarrollador Frontend | 🎨 Diseñador | 🌱 Aprendiendo Backend</h3>
+<h3 align="center">💻 Desarrollador Frontend | 🌱 Aprendiendo Backend</h3>
 
 ---
 
