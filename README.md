@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente trabajando en **proyectos personales y de estudio**
-- 🌱 Aprendiendo **React, TypeScript y Spring Boot**
+- 🌱 Aprendiendo **React, Angular, TypeScript y Spring Boot**
 - 🎯 Objetivo: Crear aplicaciones **interactivas, rápidas y escalables**
 - ⚡ Dato curioso: Me encanta combinar **programación y diseño**
 
