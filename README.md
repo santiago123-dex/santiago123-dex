@@ -1,67 +1,51 @@
-<!-- Encabezado animado -->
 <h1 align="center">¡Hola! 👋 Soy Santiago Fajardo</h1>
-<h3 align="center">💻 Desarrollador Frontend | 🌱 Aprendiendo Backend</h3>
-
----
-
-<!-- GIF o imagen -->
 <p align="center">
-  <img src="file:///C:/Users/ASUS/OneDrive/Im%C3%A1genes/foto%20de%20github.jpg" width="400"/>
+  Desarrollador Full Stack en formación | React, Angular, Next.js, Java y Spring Boot
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **proyectos personales y de estudio**
-- 🌱 Aprendiendo **React, Angular, TypeScript y Spring Boot**
-- 🎯 Objetivo: Crear aplicaciones **interactivas, rápidas y escalables**
-- ⚡ Dato curioso: Me encanta combinar **programación y diseño**
+
+Soy desarrollador Full Stack en formación, enfocado en construir aplicaciones web robustas y escalables.
+
+Tengo experiencia trabajando con tecnologías como React, Angular, Next.js, Java, Spring Boot y bases de datos SQL. Me interesa desarrollar soluciones limpias, eficientes y bien estructuradas, aplicando buenas prácticas, trabajo en equipo y metodologías ágiles.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 
+### Frontend
+HTML, CSS, JavaScript, TypeScript, React, Angular, Next.js, Astro
+
+### Backend
+Java, Spring Boot
+
+### Bases de datos
+SQL, MySQL
+
+### Herramientas
+Git, Docker, Linux, Jira
 
 ---
 
 ## 📌 Proyectos destacados
-- [🎨 Proyecto 1]("") — Breve descripción del proyecto.
-- [💻 Proyecto 2](URL) — Proximamente
-- [🚀 Proyecto 3](URL) — Proximamente
+
+### 🚀 Agora
+Aplicación web basada en arquitectura de microservicios para la gestión de workspaces.
+
+**Tecnologías:** Spring Boot, Rust, Next.js, JWT, API Gateway, bases de datos relacionales, vectoriales y caché  
+**Aportes:** desarrollo en equipo bajo SCRUM, arquitectura distribuida, separación de responsabilidades y enfoque en escalabilidad.
+
+### 🎟️ Proyecto de gestión de boletería
+Aplicación web para la gestión de ventas de boletería desarrollada en equipo.
+
+**Tecnologías:** React, APIs REST, Git  
+**Aportes:** consumo de APIs, trabajo colaborativo, despliegue y buenas prácticas de desarrollo.
 
 ---
 
-## 🌐 Conéctate conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-fajardo-morales-7a304b379/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📫 Conéctate conmigo
 
-</p>
-
-
-<!--
-**santiago123-dex/santiago123-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Tu LinkedIn]
+- Correo: [Tu correo]
